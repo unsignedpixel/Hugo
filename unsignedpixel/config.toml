@@ -1,9 +1,11 @@
-baseurl = "http://unsignedpixel.com/test"
-url = "http://unsignedpixel.com/"
+baseurl = "http://unsignedpixel.com/blog"
+url = "http://unsignedpixel.com/blog"
 languageCode = "en-us"
 title = "unsigned pixel"
 theme = "casper"
 
+[permalinks]
+post = "/:year/:month/:title/"
 
 [[menu.main]]
 identifier = "blog"
@@ -45,8 +47,8 @@ hideHUGOSupport = false
 #logo = "images/logo.png"
 logo = "img/unsigned_06.svg"
 twitterName = "chris5s"
-[permalinks]
-post = "/:slug/"
+#[permalinks]
+
 [sitemap]
 ChangeFreq = ""
 Filename = "sitemap.xml"
