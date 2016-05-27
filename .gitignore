@@ -1,0 +1,5 @@
+**/*.zip
+themes/
+**/.DS_Store
+uploadme/
+todo.md

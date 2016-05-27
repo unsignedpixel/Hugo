@@ -1,0 +1,53 @@
+baseurl = "http://unsignedpixel.com/test"
+url = "http://unsignedpixel.com/"
+languageCode = "en-us"
+title = "unsigned pixel"
+theme = "casper"
+
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/"
+weight = -120
+[[menu.main]]
+pre = "<h6>projects</h6>"
+name = "Podcast Connection"
+url = ""
+[[menu.main]]
+name = "yet another filmroll app"
+url= ""
+[[menu.main]]
+name = "Straight Camera"
+url= ""
+[[menu.main]]
+pre = "<h6>info</h6>"
+name = "About"
+url = "refertoabouthere"
+weight = 101
+[[menu.main]]
+name = "My photography"
+url = "http://christianscheer.com"
+weight = 104
+
+[params]
+author = "Chris"
+authorlocation = "Dortmund, Germany"
+authorwebsite = "http://christianscheer.com"
+bio = "biography goes here"
+#cover = "images/cover_polenord.jpg"
+#cover is the large image on the front page, we need a pic of my hands typing while wearing a cool t-shirt
+cover = "pic that is not available"
+description = "coding for your and my photography needs"
+githubName = "unsignedpixel"
+
+hideHUGOSupport = false
+#logo = "images/logo.png"
+logo = "img/unsigned_06.svg"
+twitterName = "chris5s"
+[permalinks]
+post = "/:slug/"
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
