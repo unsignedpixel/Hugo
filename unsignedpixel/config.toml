@@ -1,11 +1,12 @@
-baseurl = "http://unsignedpixel.com/blog"
-url = "http://unsignedpixel.com/blog"
+baseurl = "http://unsignedpixel.com/blog/"
+url = "http://unsignedpixel.com"
 languageCode = "en-us"
 title = "unsigned pixel"
 theme = "casper"
 
 [permalinks]
 post = "/:year/:month/:title/"
+page = "/:slug/"
 
 [[menu.main]]
 identifier = "blog"
@@ -25,7 +26,7 @@ url= ""
 [[menu.main]]
 pre = "<h6>info</h6>"
 name = "About"
-url = "refertoabouthere"
+url = "broken url sorry!"
 weight = 101
 [[menu.main]]
 name = "My photography"
