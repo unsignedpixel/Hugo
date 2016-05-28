@@ -26,7 +26,7 @@ url= ""
 [[menu.main]]
 pre = "<h6>info</h6>"
 name = "About"
-url = "broken url sorry!"
+url = "page"
 weight = 101
 [[menu.main]]
 name = "My photography"
