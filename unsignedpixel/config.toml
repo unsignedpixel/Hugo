@@ -34,7 +34,7 @@ url = "http://christianscheer.com"
 author = "Chris"
 authorlocation = "Dortmund, Germany"
 authorwebsite = "http://christianscheer.com"
-bio = "biography goes here"
+bio = "iOS development and more"
 #cover = "images/cover_polenord.jpg"
 #cover is the large image on the front page, we need a pic of my hands typing while wearing a cool t-shirt
 cover = "pic that is not available"
