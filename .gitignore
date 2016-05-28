@@ -3,3 +3,5 @@ themes/
 **/.DS_Store
 uploadme/
 todo.md
+deploy.sh
+
