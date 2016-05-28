@@ -2,6 +2,7 @@
 title = "welcome to unsigned pixel"
 date = "2015-09-26"
 tags = ["initial post"]
+share = false
 #draft = false
 +++
 
