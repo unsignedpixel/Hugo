@@ -7,6 +7,8 @@ tags = ["about","unsigned pixel"]
 subtitle = "What does the name mean?"
 layout = "page"
 bigimg = "/img/darkroom.jpg"
+menu = "main"
+weight = 102
 +++
 
 Why **unsigned pixel** ?

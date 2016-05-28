@@ -25,13 +25,16 @@ name = "Straight Camera"
 url= ""
 [[menu.main]]
 pre = "<h6>info</h6>"
-name = "About"
-url = "about"
+#name = "About"
+#url = "about"
 weight = 101
-[[menu.main]]
 name = "My photography"
 url = "http://christianscheer.com"
-weight = 104
+
+#[[menu.main]]
+#name = "My photography"
+#url = "http://christianscheer.com"
+#weight = 104
 
 [params]
 author = "Chris"
