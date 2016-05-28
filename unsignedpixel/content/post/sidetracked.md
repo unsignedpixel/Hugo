@@ -12,4 +12,5 @@ title = "sidetracked"
 
 +++
 instead of setting up a workflow for automating this blog [(see bootstraping)](../bootstrapping), I decided to use a different theme (_casper_ instead of _beautifulhugo_) and lost a bit sight of the original goal, so please bear with me... 
+<!--more-->
 
