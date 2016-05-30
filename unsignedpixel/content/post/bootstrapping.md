@@ -5,6 +5,7 @@ subtitle = ""
 title = "bootstrapping"
 tags = ["bootstrapping","unsigned pixel"]
 share = false
+author = "chris"
 +++
 
 After dabbling around for a while with [hugo](http://gohugo.io), I decided to establish a real blogging workflow with that static site generator. And why not blog about, too?
