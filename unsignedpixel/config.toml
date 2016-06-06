@@ -37,7 +37,7 @@ authorwebsite = "http://christianscheer.com"
 bio = "iOS development and more"
 #cover = "images/cover_polenord.jpg"
 #cover is the large image on the front page, we need a pic of my hands typing while wearing a cool t-shirt
-cover = "pic that is not available"
+cover = "img/20160606_IMG_5498.jpg"
 description = "coding for your and my photography needs"
 githubName = "unsignedpixel"
 
