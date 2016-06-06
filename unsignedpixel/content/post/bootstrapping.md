@@ -13,4 +13,3 @@ After dabbling around for a while with [hugo](http://gohugo.io), I decided to es
 The rough idea is that I'll script site generation first, put the site sources under version control and set up a Jenkins job to publish to my actual site.
 One could argue that putting the whole thing up on Github would be much easier, but I have to expand my knowledge on CI anyway and this should be a fun project to do so.
 
-UPDATE  read [this]({{< ref "post/cheap_is_expensive.md" >}}) to learn why I won't proceed with this plan anymore
