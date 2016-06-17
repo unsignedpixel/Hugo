@@ -7,7 +7,7 @@ share = false
 image = ""
 menu = ""
 #slug = "post-title"
-tags = ["bootstrapping"]
+tags = ["bootstrapping","tools"]
 title = "git setup"
 
 +++
