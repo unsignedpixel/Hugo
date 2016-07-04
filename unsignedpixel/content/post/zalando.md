@@ -4,6 +4,7 @@ draft = false
 title = "zalando"
 tags = ["unsorted"]
 bigimg = "/test/img/path.jpg"
+share = false
 +++
 
 Nothing to see here, please move along!
