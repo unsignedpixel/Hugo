@@ -3,9 +3,9 @@ date = "2016-07-15T21:09:17+02:00"
 share = false
 subtitle = ""
 tags = ["iOS"]
-title = "podcastconnection"
-
+title = "podcast connection"
+parent="projects"
 +++
 
-nothing to see here yet.
-![Example image](/blog/images/IMG_1802.jpg)
+nothing but some tests running in XCode to see here yet.
+![testing](/blog/images/IMG_1802.jpg)

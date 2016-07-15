@@ -13,16 +13,18 @@ identifier = "blog"
 name = "Blog"
 url = "/"
 weight = -120
+
 [[menu.main]]
 pre = "<h6>projects</h6>"
+identifier = "projects"
 name = "Podcast Connection"
-url = ""
+url = "/podcast connection"
 [[menu.main]]
 name = "yet another filmroll app"
-url= ""
+url= "/YAFRA"
 [[menu.main]]
 name = "Straight Camera"
-url= ""
+url= "/straight camera"
 [[menu.main]]
 pre = "<h6>info</h6>"
 weight = 101
