@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrapping on unsigned pixel</title>
+    <link>http://unsignedpixel.com/blog/tags/bootstrapping/</link>
+    <description>Recent content in Bootstrapping on unsigned pixel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jul 2016 22:04:24 +0200</lastBuildDate>
+    <atom:link href="http://unsignedpixel.com/blog/tags/bootstrapping/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>slow progress</title>
+      <link>http://unsignedpixel.com/blog/2016/07/slow-progress/</link>
+      <pubDate>Thu, 14 Jul 2016 22:04:24 +0200</pubDate>
+      
+      <guid>http://unsignedpixel.com/blog/2016/07/slow-progress/</guid>
+      <description>&lt;p&gt;Automating the &lt;a href=&#34;http://unsignedpixel.com/blog/2016/05/bootstrapping/&#34;&gt;infrastructure&lt;/a&gt; has been assigned a lower priority once more, because I want to get some serious work on an iOS project done.  The code name for that project is &lt;em&gt;PodcastConnection&lt;/em&gt;. &lt;em&gt;PodcastConnection&lt;/em&gt; will make featured (photography) podcasts more accessible for people that have no idea what a podcast, a podcatcher or even
+Apple&amp;rsquo;s &lt;a href=&#34;https://itunes.apple.com/en/app/podcasts/id525463029?mt=8&#34;&gt;Podcasts&lt;/a&gt; app is. So why is this post titled &amp;lsquo;slow progress&amp;rsquo;? Coding algorithms or data structures  is quite easy in Swift, but getting to grips with idomatic Cocoa and how to wire together Views and Controllers has been a bit of a struggle for me. But tonight, I could finally see the light at the end of the tunnel, and it was neither a freight train nor a Pokemon Go player with a flashlight.&lt;/p&gt;
+
+&lt;p&gt;[Update: I intend to open source &lt;em&gt;PodcastConnection&lt;/em&gt; (it is not rocket science anyway), but being the perfectionist I am, I&amp;rsquo;ll keep it in a private &lt;a href=&#34;https://Bitbucket.org&#34;&gt;Bitbucket&lt;/a&gt; repo until I am at least half way satisfied with the code.]&lt;/p&gt;
+
+&lt;p&gt;[Another Update: Since &lt;em&gt;PodcastConnection&lt;/em&gt; is going to be a collaboration between me an the guy who actually asked for such an app, it isn&amp;rsquo;t my sole decision to open source it. And considering some points made in episode 37 of &lt;a href=&#34;https://www.relay.fm/radar&#34;&gt;Under the Radar&lt;/a&gt; it might not be the best idea anyway&amp;hellip;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>cheap is expensive</title>
+      <link>http://unsignedpixel.com/blog/2016/05/cheap-is-expensive/</link>
+      <pubDate>Sat, 28 May 2016 23:12:43 +0200</pubDate>
+      
+      <guid>http://unsignedpixel.com/blog/2016/05/cheap-is-expensive/</guid>
+      <description>&lt;p&gt;The plan was to automate static generation of the site to the point where I just add/edit a post, run a script that builds the site and do an automatic upload.
+ Later on, building should be via &lt;a href=&#34;https://jenkins.io/index.html&#34;&gt;Jenkins&lt;/a&gt; or a similar tool. But my cheap hoster gives me no &lt;code&gt;ssh&lt;/code&gt; or &lt;code&gt;rsync&lt;/code&gt; access and I spent the better part of the evening trying to figure out how to automate the upload of the files. This was rather expensive in terms of time that I could have better spent programming &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;But then &lt;a href=&#34;https://duck.sh&#34;&gt;&lt;code&gt;duck&lt;/code&gt;&lt;/a&gt; of Cyberduck fame came to the rescue and I am one step closer to automated site generation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>git setup</title>
+      <link>http://unsignedpixel.com/blog/2016/05/git-setup/</link>
+      <pubDate>Thu, 26 May 2016 23:25:14 +0200</pubDate>
+      
+      <guid>http://unsignedpixel.com/blog/2016/05/git-setup/</guid>
+      <description>&lt;p&gt;I realized that I definitly have to have version control set up before even thinking about editing the configuration of a mostly unknown system like &lt;a href=&#34;http://gohugo.io&#34;&gt;hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I only have working knowledge of subversion, but need to get up too speed with Git anyway, so I had to find a good resource to get into using Git quickly. The &lt;a href=&#34;https://git-scm.com/book&#34;&gt;git book&lt;/a&gt; is very thorough, but too long for a quick start, so I opted for &lt;a href=&#34;https://www.git-tower.com/learn/git/ebook&#34;&gt;Learn Version Control with Git&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bootstrapping</title>
+      <link>http://unsignedpixel.com/blog/2016/05/bootstrapping/</link>
+      <pubDate>Fri, 13 May 2016 19:39:20 +0200</pubDate>
+      
+      <guid>http://unsignedpixel.com/blog/2016/05/bootstrapping/</guid>
+      <description>&lt;p&gt;After dabbling around for a while with &lt;a href=&#34;http://gohugo.io&#34;&gt;hugo&lt;/a&gt;, I decided to establish a real blogging workflow with that static site generator. And why not blog about, too?&lt;/p&gt;
+
+&lt;p&gt;The rough idea is that I&amp;rsquo;ll script site generation first, put the site sources under version control and set up a Jenkins job to publish to my actual site.
+One could argue that putting the whole thing up on Github would be much easier, but I have to expand my knowledge on CI anyway and this should be a fun project to do so.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

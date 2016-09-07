@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on unsigned pixel</title>
+    <link>http://unsignedpixel.com/blog/tags/books/</link>
+    <description>Recent content in Books on unsigned pixel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jun 2016 09:34:49 +0100</lastBuildDate>
+    <atom:link href="http://unsignedpixel.com/blog/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>git rebase wwdc2016</title>
+      <link>http://unsignedpixel.com/blog/2016/06/git-rebase-wwdc2016/</link>
+      <pubDate>Thu, 16 Jun 2016 09:34:49 +0100</pubDate>
+      
+      <guid>http://unsignedpixel.com/blog/2016/06/git-rebase-wwdc2016/</guid>
+      <description>&lt;p&gt;I couldn&amp;rsquo;t watch all of the WWDC 2016 keynote and caught only the last bits of macOS Sierra and some iMessage stuff. The latter I couldn&amp;rsquo;t really make sense of at the time, but I don&amp;rsquo;t snapchat or use other messengers besides iMessage. So not having watched the whole thing, I was a bit underwhelmed. Nevertheless, a lot of tweets this week showed how many exciting new API there are to explore and I am really looking forward to do so.&lt;/p&gt;
+
+&lt;p&gt;I picked up a copy of Paul Hudsons &lt;a href=&#34;https://gum.co/beyondcode&#34;&gt;Beyond Code&lt;/a&gt; to get up to speed with &lt;code&gt;git&lt;/code&gt; and terminal and will have to rebase all the WWDC tweets for linear reading&amp;hellip; Pauls books are definitely worth reading. At the moment, they complement my level of experience just right.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
