@@ -1,7 +1,7 @@
 +++
 date = "2016-04-30T19:24:10+01:00"
 title = "swift fun"
-draft = "true"
+draft = "false"
 tags = ["programming","Swift"]
 share = false
 +++
