@@ -1,9 +1,10 @@
 baseurl = "https://unsignedpixel.com/blog/"
-url = "https://unsignedpixel.com"
+#url = "https://unsignedpixel.com/"
 languageCode = "en-us"
 title = "unsigned pixel"
 theme = "casper"
-
+paginate = 15
+#paginatePath = "/blog/page/"
 [permalinks]
 post = "/:year/:month/:title/"
 page = "/:slug/"
