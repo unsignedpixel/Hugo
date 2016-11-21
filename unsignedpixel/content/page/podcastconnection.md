@@ -8,4 +8,4 @@ parent="projects"
 +++
 
 nothing but some tests running in XCode to see here yet.
-![testing](/blog/images/IMG_1802.jpg)
+![testing](/images/IMG_1802.jpg)

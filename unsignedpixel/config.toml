@@ -1,10 +1,12 @@
 baseurl = "https://unsignedpixel.com/blog/"
-#url = "https://unsignedpixel.com/"
+url = "https://unsignedpixel.com/"
+
 languageCode = "en-us"
 title = "unsigned pixel"
 theme = "casper"
-paginate = 15
-#paginatePath = "/blog/page/"
+paginate = 5
+canonifyurls = "true"
+
 [permalinks]
 post = "/:year/:month/:title/"
 page = "/:slug/"
@@ -36,7 +38,7 @@ url = "http://christianscheer.com"
 [params]
 author = "Chris"
 authorlocation = "Dortmund, Germany"
-authorwebsite = "http://christianscheer.com"
+#authorwebsite = "http://christianscheer.com"
 bio = "iOS development and more"
 #cover = "images/cover_polenord.jpg"
 #cover is the large image on the front page, we need a pic of my hands typing while wearing a cool t-shirt
