@@ -1,5 +1,5 @@
-baseurl = "http://unsignedpixel.com/blog/"
-url = "http://unsignedpixel.com"
+baseurl = "https://unsignedpixel.com/blog/"
+url = "https://unsignedpixel.com"
 languageCode = "en-us"
 title = "unsigned pixel"
 theme = "casper"
