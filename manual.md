@@ -1,6 +1,6 @@
 ##Collection of unreleated commands related to `hugo`, `git`, ...##
 - Posts start with a lowercase heading
-- to start a new post: hugo(64) new post/name_of_the_post.md
+- to start a new post:from inside the site dir (unsignedpixel) `hugo new post/name_of_the_post.md`
 - link to other posts via `{{<ref "page/about.md" >}}`and embed that in markdown links `[text](link)` or in this case `[text]({{<ref "page/about.md" >}}`
 - add `<!--more-->`to posts to keep any formatting in the summary view (lists) 
 - add pictures with `![alt title](/images/imagename.jpg)`
