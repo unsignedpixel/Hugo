@@ -6,3 +6,5 @@ todo.md
 deploy.sh
 **/*.afphoto
 
+/unsignedpixel/content/post/.Ulysses-Group.plist
+/unsignedpixel/content/post/.Ulysses-favorites.plist
