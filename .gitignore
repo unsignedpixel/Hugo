@@ -8,3 +8,5 @@ deploy.sh
 
 /unsignedpixel/content/post/.Ulysses-Group.plist
 /unsignedpixel/content/post/.Ulysses-favorites.plist
+/unsignedpixel/public/**
+
