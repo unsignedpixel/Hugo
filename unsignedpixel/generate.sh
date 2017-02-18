@@ -1,4 +1,4 @@
 #!/bin/bash
 # script to generate for upload into ./uploadme
 #TODO: add git stuff and rsync to unsignedpixel.com
-hugo -d ./uploadme --theme=casper
+hugo -d ./uploadme --theme=hugo-theme-casper
