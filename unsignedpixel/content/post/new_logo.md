@@ -9,7 +9,7 @@ tags = ["bootstrapping"]
  
 ![new logo][image-1]
 
-This  has been in stealth mode ever since I started it way back in [2015]({{\< ref  "post/welcome-to-unsignedpixel.md" \>}}) . That means <!--more-->
+This  site has been in stealth mode ever since I started it way back in [2015]({{\< ref  "post/welcome-to-unsignedpixel.md" \>}}) . That means <!--more-->
 
  that I never promoted [unsigned pixel.com][1] on social media or elsewhere and didn't tell people about it. Up to now, it was probably a write-only-site no one ever read. 
 What held me back? Lack of content is one thing. I feel that I don't post enough and the few things that get posted do not have the depth I wish they'd have. 
