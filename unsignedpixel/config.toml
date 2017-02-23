@@ -3,7 +3,7 @@ url = "https://unsignedpixel.com/"
 
 languageCode = "en-us"
 title = "unsigned pixel"
-theme = "casper"
+theme = "hugo-theme-casper"
 paginate = 5
 canonifyurls = "true"
 
