@@ -3,7 +3,7 @@ share = false
 date = "2017-02-18T22:10:08+01:00"
 title = "new logo"
 subtitle = ""
-tags = ["bootstrapping"]
+tags = ["bootstrapping","unsigned pixel"]
 
 +++
  
