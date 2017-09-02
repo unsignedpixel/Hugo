@@ -9,9 +9,9 @@ weight = 105
 ---
 **Christian Scheer**
 
-**Oberschlesierstr. 15**
+**Andreas-Knack-Ring 14**
 
-**44141 Dortmund**
+**22307 Hamburg**
 
 **info at unsignedpixel.com**
 <br><br>
