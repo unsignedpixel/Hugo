@@ -5,7 +5,7 @@ languageCode = "en-us"
 title = "unsigned pixel"
 theme = "hugo-theme-casper"
 paginate = 5
-canonifyurls = "true"
+#canonifyurls = "true"
 
 [permalinks]
 post = "/:year/:month/:title/"
@@ -15,7 +15,14 @@ page = "/:slug/"
 identifier = "blog"
 name = "Blog"
 url = "/"
-weight = -120
+weight = 120
+
+[[menu.main]]
+pre = "<h6>info</h6>"
+identifier = "info"
+weight = 100
+name = "My photography"
+url = "http://christianscheer.com"
 
 [[menu.main]]
 pre = "<h6>projects</h6>"
@@ -28,11 +35,6 @@ url= "/YAFRA"
 [[menu.main]]
 name = "Straight Camera"
 url= "/straight camera"
-[[menu.main]]
-pre = "<h6>info</h6>"
-weight = 101
-name = "My photography"
-url = "http://christianscheer.com"
 
 
 [params]
@@ -57,3 +59,5 @@ flickrname = "c520"
 ChangeFreq = ""
 Filename = "sitemap.xml"
 Priority = "-1"
+
+

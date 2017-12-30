@@ -13,4 +13,4 @@ Currently, my day job requires a lot of time.
 <!--more--> 
 As a result, none of my side projects or this site get much attention. As much as I regret it, this won’t change in the foreseeable future.
 
-[image-1]:	/images/while_the_computer.jpg "While the computer ..."
+[image-1]:	/blog/images/while_the_computer.jpg "While the computer ..."

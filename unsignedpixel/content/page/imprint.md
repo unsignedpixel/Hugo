@@ -2,9 +2,10 @@
 date = "2015-09-26T19:02:49+01:00"
 share = false
 title = "Impressum"
-layout = "page"
+#layout = "page"
+parent="info"
 menu = "main"
-weight = 105
+weight = 95
 +++
 ---
 **Christian Scheer**

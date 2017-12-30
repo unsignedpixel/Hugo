@@ -5,10 +5,11 @@ share = false
 title = "About"
 tags = ["about","unsigned pixel"]
 subtitle = "What does the name mean?"
-layout = "page"
+#layout = "page"
 bigimg = "/img/darkroom.jpg"
 menu = "main"
-weight = 102
+weight = 97
+parent="info"
 +++
 
 Why **unsigned pixel** ?

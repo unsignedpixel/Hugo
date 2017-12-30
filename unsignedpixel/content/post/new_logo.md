@@ -19,5 +19,5 @@ Plus I didn't like the previous logo ![logo][image-2] for this site. My own visu
 
 [1]:	https://unsignedpixel.com
 
-[image-1]:	/images/unsigned_06.svg "new logo"
-[image-2]:	/images/old_logo.svg "old logo"
+[image-1]:	/blog/images/unsigned_06.svg "new logo"
+[image-2]:	/blog/images/old_logo.svg "old logo"
