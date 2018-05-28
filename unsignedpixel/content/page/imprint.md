@@ -7,6 +7,7 @@ parent="info"
 menu = "main"
 weight = 95
 +++
+<meta name="robots" content="noindex" />
 ---
 [zur Datenschutzerklärung ](#DSGVO)
 
@@ -163,5 +164,4 @@ Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Tw
 Sofern die Nutzer Mitglieder der Plattform Twitter sind, kann Twitter den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Twitter ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active). Datenschutzerklärung: https://twitter.com/de/privacy, Opt-Out: https://twitter.com/personalization.
 
 Vom Websiteinhaber angepasst
-
 [Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke](https://datenschutz-generator.de/ "Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke")
