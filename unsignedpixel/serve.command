@@ -3,4 +3,4 @@
 cd /Users/chris/Documents/unsignedpixel/hugo/unsignedpixel/
 #Start Safari in the background and then launch hugo. 
 open -a safari http://localhost:1313/blog &
-hugo server --buildDrafts --theme=hugo-theme-casper 
+hugo_311 server --buildDrafts --theme=hugo-theme-casper 
