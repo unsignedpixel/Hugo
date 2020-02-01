@@ -7,7 +7,7 @@ date = 2020-01-30T22:13:09+01:00
 draft =  false
 +++
 
-Due to my day job, there is hardly any time to add planned features to Yafra. When on the train to work, I test code fragments in iPad Playgrounds. That code gets eventually integrated, might fail to run in the app’s context (never `wait()` on the main thread) and is reworked a couple of days later. After some painfully slow iterations like that, I managed to properly capture async function results. The app does now reverse geocoding of exposure locations. 
+Due to my day job, there is hardly any time to add planned features to Yafra. Sometime, when on the train to work, I test code fragments in iPad Playgrounds. That code gets eventually integrated, might fail to run in the app’s context (never `wait()` on the main thread) and is reworked a couple of days later. After some painfully slow iterations like that, I managed to properly capture async function results. The app does now reverse geocoding of exposure locations. 
 There are plenty of reverse geocoding examples on the net, but they merely print out the results of `Geocoder.reverseGeocode()` and don't explain how to
 
 - capture the result that is returned asynchronous
