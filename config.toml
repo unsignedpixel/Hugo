@@ -1,0 +1,28 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "unsignedpixel"
+theme = "smol"
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+[languages]
+  [languages.en]
+    [languages.en.params.logo]
+      logoText = "unsignedpixel"
+  
+[menu]
+
+  [[menu.main]]
+    name = "posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "about"
+    url = "about-hugo/"
+    weight = 20
+  
+
