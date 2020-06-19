@@ -1,4 +1,8 @@
 <header>
+<!-- generate rss feed acessible via BaseUrl/index.xml-->
+{{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
 	<div style="float: right;">{{ .Site.Params.subtitle }}</div><br>
 	<p>
 	<nav>
@@ -8,6 +12,8 @@
 			<a href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a>
 			{{ end }}
 	</nav>
+	<h1>coding for your and my photography needs</h1>
+
 	</p>
 	{{ end }}
 </header>
