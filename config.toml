@@ -8,7 +8,7 @@ theme = "smol"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   tagline = "coding for your and my photography needs"
-
+  logo = "/images/unsigned_06.svg"
 [languages]
   [languages.en]
     [languages.en.params.logo]
@@ -25,5 +25,10 @@ theme = "smol"
     name = "about"
     url = "about-hugo/"
     weight = 20
+    
+  [[menu.footer]]
+        name = "twitter"
+        url = "https://twitter.com/chris5s"
+        weight = 1     
   
 

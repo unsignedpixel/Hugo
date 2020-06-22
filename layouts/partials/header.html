@@ -12,6 +12,10 @@
 			<a href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a>
 			{{ end }}
 	</nav>
+	      {{ if $.Site.Params.logo }}
+        <a class="blog-logo" href="{{ $.Site.BaseURL  }}"><img src="/images/unsigned_06.svg" alt="image not found" /></a>
+      {{end}}
+
 	<h1>{{ $.Site.Params.tagline }}<h1>
 	</p>
 	{{ end }}
