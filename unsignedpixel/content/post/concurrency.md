@@ -2,7 +2,7 @@
 share = false
 tags = ["programming","ios"]
 subtitle = ""
-title = "Concurrency"
+title = "concurrency"
 date = 2020-01-30T22:13:09+01:00
 draft =  false
 +++
