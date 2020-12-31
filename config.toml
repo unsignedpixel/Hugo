@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "chris"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -165,7 +165,7 @@ disableHugoGeneratorInject = false
 
   [[menu.main]]
     name = "about"
-    url = "about-hugo/"
+    url = "about/"
     weight = 20
     
   [[menu.footer]]
