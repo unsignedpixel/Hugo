@@ -8,11 +8,11 @@ tags = []
 +++
 
 
-[my photography](christianscheer.com)
+[my photography](http://christianscheer.com)
 
 [polaroids my wife took](http://polaroid.arianescheer.de)
 
-[yet another filmroll app](unsignedpixel.com/yafra)
+[yet another filmroll app](/yafra)
 
 
 
