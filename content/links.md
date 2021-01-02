@@ -12,7 +12,7 @@ tags = []
 
 [polaroids my wife took](http://polaroid.arianescheer.de)
 
-[yet another filmroll app](/yafra)
+[yet another filmroll app](https://unsignedpixel.com/yafra)
 
 
 

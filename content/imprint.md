@@ -1,10 +1,10 @@
 +++
 date = "2015-09-26T19:02:49+01:00"
 share = false
-title = "imprint/datenschutz"
+title = "Impressum"
 #layout = "page"
 parent="info"
-menu = "main"
+#menu = "main"
 weight = 95
 +++
 <meta name="robots" content="noindex" />
@@ -47,7 +47,7 @@ Andreas-Knack-Ring 14
 22307 Hamburg
 info@unsignedpixel.com
 
-Impressum: https://unsignedpixel.com/imprint/
+Impressum: https://unsignedpixel.com/blog/imprint/
 
 #### Arten der verarbeiteten Daten:
 

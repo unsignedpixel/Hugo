@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://unsignedpixel.com/blog/"
+url = "https://unsignedpixel.com/"
 languageCode = "en-us"
 title = "unsigned pixel"
 theme = "hello-friend-ng"
@@ -144,17 +145,11 @@ disableHugoGeneratorInject = false
     subtitle  = "coding for your and my photography needs"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">cc by-nc 4.0</a>'
-
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
 [menu]
 
   [[menu.main]]
     name = "blog"
-    url = "post/"
+    url = "/blog/posts/"
     weight = 10
 
   [[menu.main]]
@@ -166,11 +161,11 @@ disableHugoGeneratorInject = false
     name = "links"
     url = "links"
     weight = 30
-    
-  [[menu.footer]]
-        name = "twitter"
-        url = "https://twitter.com/chris5s"
-        weight = 1     
+  
+  [[menu.main]]
+    name = "imprint"
+    url = "imprint/"
+    weight = 30
   
 
 
