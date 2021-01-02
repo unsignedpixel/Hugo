@@ -7,7 +7,7 @@ tags = ["about","unsigned pixel"]
 subtitle = "What does the name mean?"
 #layout = "page"
 bigimg = "/img/darkroom.jpg"
-menu = "main"
+#menu = "main"
 weight = 97
 parent="info"
 +++
