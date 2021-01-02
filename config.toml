@@ -35,7 +35,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/post/:year/:month/:title/"
 
 [author]
   name = "chris"
@@ -76,7 +76,7 @@ disableHugoGeneratorInject = false
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
   #
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -110,6 +110,7 @@ disableHugoGeneratorInject = false
 #    logoText     = "$ cd /home/"
     logoText     = "unsignedpixel"
     logoHomeLink = "/"
+    path = "/images/unsigned_06.svg"
     # Set true to remove the logo cursor entirely.
     logoCursorDisabled = true
     # Set to a valid CSS color to change the cursor in the logo.
@@ -127,23 +128,16 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "https://twitter.com/chris5s"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/unsignedpixel"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+#  [[params.social]]	//requires public profile on xing
+#    name = "xing"
+#    url  = "https://www.xing.com/profile/Christian_Scheer19"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
@@ -159,8 +153,8 @@ disableHugoGeneratorInject = false
 [menu]
 
   [[menu.main]]
-    name = "posts"
-    url = "posts/"
+    name = "blog"
+    url = "post/"
     weight = 10
 
   [[menu.main]]
