@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "unsignedpixel"
+#title = "unsignedpixel"
 theme = "hello-friend-ng"
 
 
@@ -123,7 +123,7 @@ disableHugoGeneratorInject = false
    [params.portrait]
      path     = "/images/unsigned_06.svg"
      alt      = "Portrait"
-     maxWidth = "200px"
+     maxWidth = "50px"
 
   # Social icons
   [[params.social]]
