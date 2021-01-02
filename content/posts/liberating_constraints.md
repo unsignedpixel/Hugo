@@ -10,8 +10,7 @@ draft =  false
 Constraints can be liberating. The time that I can devote to doing iOS development is still rather constrained, but these constraints proved to be very helpful. 
 <!--more--> 
 
-I finally started on  [YAFRA] ({{\< ref  "page/yet\_another\_filmroll.md" \>}}). Knowing that I can't implement all the bells and whistles I have in mind, I go for a minimum viable product and already make great progress.
+I finally started on  [YAFRA](https://unsignedpixel.com/yafra). Knowing that I can't implement all the bells and whistles I have in mind, I go for a minimum viable product and already make great progress.
 
-![][image-1]
+![](/images/yafra_00.PNG)
 
-[image-1]:	/blog/images/yafra_00.PNG "YAFRA 1st attempt at main screen"

@@ -8,7 +8,7 @@ draft = false
 +++
 
 Currently, my day job requires a lot of time. 
-![While the computer ...][image-1]
+![While the computer ...](/images/while_the_computer.jpg)
 
 <!--more--> 
 As a result, none of my side projects or this site get much attention. As much as I regret it, this won’t change in the foreseeable future.
