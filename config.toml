@@ -161,6 +161,11 @@ disableHugoGeneratorInject = false
     name = "about"
     url = "about/"
     weight = 20
+
+  [[menu.main]]
+    name = "links"
+    url = "links"
+    weight = 30
     
   [[menu.footer]]
         name = "twitter"

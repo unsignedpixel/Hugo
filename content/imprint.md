@@ -9,7 +9,8 @@ weight = 95
 +++
 <meta name="robots" content="noindex" />
 ---
-[zur Datenschutzerklärung ](#DSGVO)
+
+[zur Datenschutzerklärung ]({{< ref "imprint.md#DSGVO" >}})
 
 
 **Christian Scheer**
@@ -46,7 +47,7 @@ Andreas-Knack-Ring 14
 22307 Hamburg
 info@unsignedpixel.com
 
-Impressum: https://unsignedpixel.com/blog/impressum/
+Impressum: https://unsignedpixel.com/imprint/
 
 #### Arten der verarbeiteten Daten:
 
