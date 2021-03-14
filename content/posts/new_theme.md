@@ -8,7 +8,7 @@ tags:
   - unsigned pixel
 ---
 
-2021 started off quiet and I finally ported this site to a different [theme](https://github.com/rhazdon/hugo-theme-hello-friend-ng) for [hugo](gohugo.io). That took longer than expected, because I had to change crossreferences some old posts and also had to update links in different places. Hugo seemed less reliable than before when updating things on the fly. I sometimes had to kill and restart hugo and refresh my browser manually to actually see the changes.
+2021 started off quiet and I finally ported this site to a different [theme](https://github.com/rhazdon/hugo-theme-hello-friend-ng) for [hugo](gohugo.io). That took longer than expected, because I had to change crossreferences in some old posts and also had to update links in different places. Hugo seemed less reliable than before when updating things on the fly. I sometimes had to kill and restart hugo and refresh my browser manually to actually see the changes.
 If you are interested in other quirks, I found [hugo is probably not for you](https://yawpitchroll.com/posts/hugo-probably-is-not-for-you/) an excellent and entertaining piece on hugo.
 
 Nevertheless, I will stick with hugo and perhaps sometime tackle a theme of my own. Boxes to tick would be:
