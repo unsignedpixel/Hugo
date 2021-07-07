@@ -5,8 +5,9 @@ subtitle = ""
 title = "1.0.1"
 date = 2019-04-02T22:32:05+02:00
 draft =  false
+image = "release.jpg"
 +++
-![release](/images/release.jpg)
+
 This post should be named 1.0(Build 6) because that was the first [Yafra](https://unsignedpixel.com/yafra) build I actually released to the App Store. 
 
 <!--more-->

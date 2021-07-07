@@ -11,4 +11,4 @@ Once more, I'll have to praise the fine folks at [Git-Tower](https://git-tower.c
 <!-- more -->
 What continues to amaze me, is their outstanding support. The coupon code for my license didn't work. I would have expected to see a freebie issue getting low priority from support, but no, they fixed it real quick.
 
-More praise for the company can be found [here]({{<ref "posts/tower3.md"\>}}). And yes, I am a satisfied paying Git-Tower user.
+More praise for the company can be found [here]({{<ref "tower3.md"\>}}). And yes, I am a satisfied paying Git-Tower user.
