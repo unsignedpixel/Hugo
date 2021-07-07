@@ -1,42 +1,15 @@
-baseURL = "https://unsignedpixel.com/blog/"
+#baseURL = "https://unsignedpixel.com/blog/"
+baseURL = "https://unsignedpixel.com/"
 url = "https://unsignedpixel.com/"
 languageCode = "en-us"
 title = "unsigned pixel"
-theme = "hello-friend-ng"
+# theme = "hello-friend-ng"
+theme = "unsigned-pixel-theme"
 
 
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
-
-paginate  = 10
-rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-
-# googleAnalytics = ""
-# disqusShortname = ""
-
-archetypeDir = "archetypes"
-contentDir   = "content"
-dataDir      = "data"
-layoutDir    = "layouts"
-publishDir   = "public"
-
-buildDrafts  = false
-buildFuture  = false
-buildExpired = false
-canonifyURLs = true
-
-enableRobotsTXT = true
-enableGitInfo   = false
-enableEmoji     = true
-enableMissingTranslationPlaceholders = false
-disableRSS     = false
-disableSitemap = false
-disable404     = false
-disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/post/:year/:month/:title/"
+  posts = "/blog/:year/:month/:title/"
 
 [author]
   name = "chris"
@@ -57,7 +30,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "unsigned pixel"
   keywords = ""
   images = [""]
 
@@ -97,84 +70,27 @@ disableHugoGeneratorInject = false
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
   #
- footerLeft = "powered by <a href=\"http://gohugo.io\">hugo</a>"
- footerRight = "theme based on <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">hello-friend-ng</a>"
 
-  # Colors for favicons
-  #
-  [params.favicon.color]
-    mask = "#252627"
-    msapplication = "#252627"
-    theme = "#252627"
+    logo = "/images/logo.svg"
+    recentposts = "recent posts"
 
-  [params.logo]
-#    logoText     = "$ cd /home/"
-    logoText     = "unsignedpixel"
-    logoHomeLink = "/"
-    path = "/images/unsigned_06.svg"
-    # Set true to remove the logo cursor entirely.
-    logoCursorDisabled = true
-    # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "0s"
+[[menu.main]]
+  name = "Blog"
+  url = "/blog"
 
-  # Uncomment this if you want a portrait on your start page
-  #
-   [params.portrait]
-     path     = "/images/unsigned_06.svg"
-     alt      = "Portrait"
-     maxWidth = "50px"
+[[menu.main]]
+  name = "Projects"
+  url = "/projects"
 
-  # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/chris5s"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/unsignedpixel"
-
-#  [[params.social]]	//requires public profile on xing
-#    name = "xing"
-#    url  = "https://www.xing.com/profile/Christian_Scheer19"
+[[menu.main]]
+name = "RSS"
+url = "/blog/index.xml"
 
 
-[languages]
-  [languages.en]
-    subtitle  = "coding for your and my photography needs"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">cc by-nc 4.0</a>'
-[menu]
+[[menu.footer]]
+  name = "Privacy"
+  url = "/imprint"
 
-  [[menu.main]]
-    name = "blog"
-    url = "/blog/posts/"
-    weight = 10
-
-  [[menu.main]]
-    name = "about"
-    url = "about/"
-    weight = 20
-
-  [[menu.main]]
-    name = "links"
-    url = "links"
-    weight = 30
-  
-  [[menu.main]]
-    name = "imprint"
-    url = "imprint/"
-    weight = 30
-  
-
-
-#[menu]
-#  [[menu.main]]
-#    identifier = "about"
-#    name       = "About"
-#    url        = "about/"
-#  [[menu.main]]
-#    identifier = "posts"
-#    name       = "Posts"
-#    url        = "posts/"
+[[menu.footer]]
+  name = "About"
+  url = "/about"
