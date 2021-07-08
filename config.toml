@@ -6,6 +6,7 @@ title = "unsigned pixel"
 # theme = "hello-friend-ng"
 theme = "unsigned-pixel-theme"
 
+summaryLength = 30
 
 
 [permalinks]
