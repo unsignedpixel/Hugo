@@ -5,8 +5,9 @@ subtitle = ""
 title = "tower3"
 date = 2018-05-29T23:15:35+02:00
 draft =  false
+image = "tower3.jpg"
 +++
-![Tower Stuff](/images/tower3.jpg)
+
 In 2016, the nice folks from fournova.com send me [some goodies]({{<ref "tower.md"\>}}). Two years later, I evaluate the beta of Tower 3, tweet about it and they were going to send me another T-Shirt. :-)
 
 <!--more-->
