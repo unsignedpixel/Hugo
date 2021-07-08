@@ -1,0 +1,2 @@
+- Fix add image to blog entry '2017 new logo'
+- update about with own theme

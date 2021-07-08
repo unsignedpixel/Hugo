@@ -80,7 +80,7 @@ theme = "unsigned-pixel-theme"
 
 [[menu.main]]
   name = "Projects"
-  url = "/projects"
+  url = "/links"
 
 [[menu.main]]
 name = "RSS"
