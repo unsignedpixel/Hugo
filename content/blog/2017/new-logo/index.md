@@ -4,10 +4,9 @@ date = "2017-02-18T22:10:08+01:00"
 title = "new logo"
 subtitle = ""
 tags = ["bootstrapping","unsigned pixel"]
-
+image = "unsigned_06.png"
 +++
  
-![new logo](/images/unsigned_06.svg)
 
 This  site has been in stealth mode ever since I started it way back in [2015]({{< ref  "welcome-to-unsignedpixel.md" >}}) . That means <!--more-->
 
@@ -19,5 +18,3 @@ Plus I didn't like the previous logo ![logo](/images/old_logo.svg) for this site
 
 [1]:	https://unsignedpixel.com
 
-[image-1]:	/blog/images/unsigned_06.svg "new logo"
-[image-2]:	/blog/images/old_logo.svg "old logo"

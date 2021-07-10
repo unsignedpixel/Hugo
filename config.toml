@@ -89,7 +89,7 @@ url = "/blog/index.xml"
 
 
 [[menu.footer]]
-  name = "Privacy"
+  name = "Imprint/Privacy"
   url = "/imprint"
 
 [[menu.footer]]
