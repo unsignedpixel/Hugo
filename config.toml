@@ -1,5 +1,5 @@
 #baseURL = "https://unsignedpixel.com/blog/"
-baseURL = "https://unsignedpixel.com/"
+baseURL = "https://unsignedpixel.com/blog/"
 url = "https://unsignedpixel.com/"
 languageCode = "en-us"
 title = "unsigned pixel"
