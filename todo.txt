@@ -1,5 +1,9 @@
+- blog/_index.md shouldn't be 'draft'
+- add fonts to theme (and put this info into theme readme)
 - update about with own theme
+
 - update privacy with 'I don't track you'
+- move to root of unsignedpixel (static/font doesn't seem to be generated when setting baseurl to https://unsignedpixel.com/
 - add yafra page (afterwards: move from /../blog to /)
 
 
