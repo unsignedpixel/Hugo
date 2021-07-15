@@ -4,7 +4,9 @@ date = "2021-07-14T12:24:49+01:00"
 share = false
 title = "Yafra"
 tags = []
-#layout = "page"
+image = "yafra2.png"
 +++
 
 EXIF for analog film
+
+bla
