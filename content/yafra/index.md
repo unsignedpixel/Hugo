@@ -9,11 +9,19 @@ image = "yafra2.png"
 
 ## Your Analog Film Roll App
 
-EXIF data for analog film
 
 ![](yafra2.png)
 
+# Yafra 2.0
 
+### EXIF data for analog film
+
+
+[AppstoreLogo]: Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg
+[![AppstoreLogo]](https://apps.apple.com/us/app/yafra-exif-for-analog-film/id1449374795)
+
+
+[Privacy Policy]({{< ref "#privacy" >}})
 
 You love shooting film? Let YAFRA be your digital notebook for recording date, location and exposure details for every picture captured. Select your camera, load a film and then log all the data with a single tap. Switch seamlessly between different cameras. Browse exposed rolls and view a map of the exposure location in the app or export the data to augment your scanned pictures.
 
@@ -24,25 +32,21 @@ Tap the camera icon on the upper right to select a camera and a film type. Now y
 
 ### FAQ
 
-Can I add a short note to a film roll?
+__Can I add a short note to a film roll?__
+
 Yes, after loading a film, swipe right on the selected film to customize it.
 
-I can't delete the first film from the film list
-The first film in the list is still in the camera. Only films that have been unloaded (by loading a new film) can be deleted with a left swipe.
+__How can I export my log data?__
 
-How can I export my log data
 Select the film you want to export and tap the share button. Export to any app on your device or an Apple Mac.
 
-The exported data looks gibberish, now what?
+__The exported data looks gibberish, now what?__
+
 The data is encoded in a format called JSON and a human should be able to read aperture and exposure times plus camera info. The location data (longitude and latitude) can be entered in any online location converter. A small utility to automate the conversion and lookup locations (as well as conversion to XMP Sidecar format) is being developed.Version 1.0.4 converts the location into readable address and location names
 
-My film does not show in the film list
-Are you using multiple cameras? The film in the current camera is only listed if that camera is selected.
 
-Can I edit film presets or cameras?
-Not at the moment. But feel free to delete film presets or cameras and (re)create your own. Existing film rolls are not affected. But don't delete a camera that contains exposed film, those frames will be discarded as well.
+__Why the strange name and icon?__
 
-Why the strange name and icon?
 I started to work on Yafra because the film roll apps that existed at the time didn't meet my requirements. 'Yet Another Film Roll App' was born. Calling an app 'yet another' didn't seem like a good idea, so now it is 'Your Analog Film Roll App'. 
 And to my ears, 'Yafra' sounds similar to 'Jaffa', an orange variety used in my childhood to market, well, oranges.
 
@@ -58,13 +62,7 @@ And to my ears, 'Yafra' sounds similar to 'Jaffa', an orange variety used in my 
 yafra@unsignedpixel.com
 
 
-href="https://itunes.apple.com/us/app/yafra-exif-for-analog-film/id1449374795?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-03-30&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;
 
-[Privacy Policy]({{< ref "#privacy" >}})
-bla bla bla
-
-
-bla bla bla
 
 ## Privacy Policy{#privacy}
 
