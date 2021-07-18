@@ -4,7 +4,7 @@
 - update about with own theme
 
 - update privacy with 'I don't track you'
-- add yafra page (afterwards: move from /../blog to /)
+
 
 
 

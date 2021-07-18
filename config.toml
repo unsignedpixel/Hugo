@@ -18,10 +18,10 @@ summaryLength = 30
 [blackfriday]
   hrefTargetBlank = true
 
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
-  series   = "series"
+#[taxonomies]
+#  tag      = "tags"
+#  category = "categories"
+#  series   = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
