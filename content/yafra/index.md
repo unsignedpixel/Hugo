@@ -23,7 +23,7 @@ image = "yafra2.png"
 
 [Privacy Policy]({{< ref "#privacy" >}})
 
-You love shooting film? Let YAFRA be your digital notebook for recording date, location and exposure details for every picture captured. Select your camera, load a film and then log all the data with a single tap. Switch seamlessly between different cameras. Browse exposed rolls and view a map{{<super>}}2.0{{</super>}}of the exposure location in the app or export the data to augment your scanned pictures.
+You love shooting film? Let YAFRA be your digital notebook for recording date, location and exposure details for every picture captured. Select your camera, load a film and then log all the data with a single tap. Switch seamlessly between different cameras. Browse exposed rolls and {{<super>}}new{{</super>}}view a map of the exposure location in the app or export the data to augment your scanned pictures.
 
 ### Getting started
 
