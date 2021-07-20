@@ -34,7 +34,7 @@ Tap the camera icon on the upper right to select a camera and a film type. Now y
 
 __Can I add a short note to a film roll?__
 
-Yes, after loading a film, swipe right on the selected film to customize it.
+Yes, go to the film list, tap the film and tap 'edit' to add a description.
 
 __How can I export my log data?__
 
@@ -42,7 +42,7 @@ Select the film you want to export and tap the share button. Export to any app o
 
 __The exported data looks gibberish, now what?__
 
-The data is encoded in a format called JSON and a human should be able to read aperture and exposure times plus camera info. The location data (longitude and latitude) can be entered in any online location converter. A small utility to automate the conversion and lookup locations (as well as conversion to XMP Sidecar format) is being developed.Version 1.0.4 converts the location into readable address and location names
+The data is encoded in a format called JSON and a human should be able to read aperture and exposure times plus camera info. The location data (longitude and latitude) can be entered in any online location converter.
 
 
 __Why the strange name and icon?__
