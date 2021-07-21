@@ -12,7 +12,7 @@ I wanted a theme for this site that satisfies at least these requirements
 * no tracking/external dependencies (like google or font delivery via CDN)
 * (nice typography)
 
-Typing `hugo new theme` is easy. Actually filling the created template with code requires HTML and CSS skills. Some basic understanding of how hugo works is required as well. A welcome opportunity to learn something new. I started with writing HTML for the hugo layouts and used Andy Brewer's [mvp.css](https://github.com/andybrewer/mvp) as a temporary stylesheet. The idea was to style the resulting semantic HTML with my own CSS. In the process of adding (and learning) CSS, I introduced some classes, so the markup is not pure semantic HTML. The CSS isn't finished yet and still requires cleanup and some visual changes (like the usage of color).
+Typing `hugo new theme` is easy. Actually filling the created template with code requires HTML and CSS skills. Some basic understanding of how hugo works is required as well. A welcome opportunity to learn something new :grinning:. I started with writing HTML for the hugo layouts and used Andy Brewer's [mvp.css](https://github.com/andybrewer/mvp) as a temporary stylesheet. The idea was to style the resulting semantic HTML with my own CSS. In the process of adding (and learning) CSS, I introduced some classes, so the markup is not pure semantic HTML. The CSS isn't finished yet and still requires cleanup and some visual changes (like the usage of color).
 
 
 The fonts used in this theme are:

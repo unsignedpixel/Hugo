@@ -8,6 +8,7 @@ theme = "unsigned-pixel-theme"
 
 summaryLength = 30
 
+enableEmoji = true
 
 [permalinks]
   posts = "/blog/:year/:month/:title/"
