@@ -4,7 +4,7 @@ date =  2021-07-15T11:19:00+02:00
 draft = false
 +++
 
-**unsignedpixel.com** is now based on my own [hugo](gohugo.io) theme!
+**unsignedpixel.com** is now based on my own [hugo](https://gohugo.io) theme!
 <!-- more --> 
 As mentioned in [new theme]({{< ref "new_theme.md" >}}) earlier this year,
 I wanted a theme for this site that satisfies at least these requirements
