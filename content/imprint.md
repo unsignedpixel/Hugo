@@ -47,7 +47,7 @@ Andreas-Knack-Ring 14
 22307 Hamburg
 info@unsignedpixel.com
 
-Impressum: https://unsignedpixel.com/blog/imprint/
+Impressum: https://unsignedpixel.com/imprint/
 
 #### Arten der verarbeiteten Daten:
 
