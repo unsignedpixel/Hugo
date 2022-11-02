@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\n#git git submodule update --remote --merge\nd=$( git diff; )\nc=$( git diff --cached; )\nif [[ $d || $c ]];\nthen\n echo \"uncommited or staged changes, not updating\"\n echo $d\n echo $c\n exit 1\nelse\n git submodule update --remote --merge\n exit 0\nfi\n\n"
+    }
+  },
+  "openLogOnRun" : "finish"
+}
