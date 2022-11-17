@@ -8,4 +8,4 @@ draft: false
 # unsignedpixel
 ## coding for your and my photography needs
 
-I blog about my side projects (mostly photography related) here. You can find my photography *[here](http://christianscheer.com)*
+I blog about my side projects (mostly photography related) here. You can find my photography [here](http://christianscheer.com) and get  my App for analog photography *[here](/yafra)*
