@@ -125,14 +125,6 @@ Once you click, that network may record information about you and your visit to 
 
 Initially, this data includes such things as your IP address, the date and time of your visit, and the page visited. If you are logged into your user account on that network, however, the network operator might assign the information collected about your visit to our site to your personal account. If you interact by clicking Like, Share, etc., this information can be stored your personal user account and possibly posted on the respective network. To prevent this, you need to log out of your social media account before clicking on the graphic. The various social media networks also offer settings that you can configure accordingly.
 
-The following social networks are integrated into our site by linked graphics:
-
-twitter
-
-Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA
-
-Privacy Policy: [https://twitter.com/privacy](https://twitter.com/privacy)
-
 
 The following company is integrated into our site by linked graphics:
 
