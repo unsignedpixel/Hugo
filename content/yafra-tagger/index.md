@@ -17,13 +17,13 @@ image = "yafra-tagger.png"
 Yafra-Tagger is the companion app for [Yafra](/yafra). It reads Yafra files and writes data to your digitized film. 
 
 ### Getting started{#help}
-Export your films from Yafra to you mac (select a film from the film list and share it using AirDrop, Mail or Save to Files). Open Yafra-Tagger and drag a film to the left panel. Now drag your digitized film images to the right panel. Supported file types are
+Export your films from Yafra to you mac (select a film from the film list and share it using AirDrop, Mail or Save to Files). Open Yafra-Tagger and drag a film to the left panel. Then drag digitized film images to the right panel. Supported file types are
 - jpeg
 - tiff
 - heic
 - png
 
-Now assign exposures to images by dragging them from the left panel to the right panel. You can assign the same exposure to multiple images. If you accidentally assign a the wrong exposure, simply replace it by dragging the correct one to the image.
+Assign exposures to images by dragging them from the left panel to the right panel. You can assign the same exposure to multiple images. If you accidentally assign a wrong exposure, simply replace it by dragging the correct one to the image.
 
 Swipe left to remove an image from the list
 
