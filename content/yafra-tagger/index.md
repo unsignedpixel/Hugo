@@ -29,7 +29,7 @@ Swipe left to remove an image from the list
 
 Please note that only the GPS coordinates of the exposure are written to you images. The name of the location, e.g. "Golden Gate Bridge, San Francisco" will currently not be copied over.
 
-#### Using Adobe Lightroom Classic*?
+#### Using Adobe Lightroom Classic? {{<small>}}*{{</small>}}
 There are two scenarios:
 ###### Tag images before import into Lightroom
 Tag your images as described above. Import them into Lightroom. If the catalog is structured by date, the images should be imported according to their new capture date instead of the date they were digitized.
@@ -42,4 +42,4 @@ In Lightroom, select on or more images that you want to tag, choose Photo/Show i
 - optional sorting of image list
 
 
-{{<small>}}* Adobe and Photoshop are either registered trademarks or trademarks of Adobe in the United States and/or other countries.{{</small>}}
+{{<small>}}* Adobe and Lightroom are either registered trademarks or trademarks of Adobe in the United States and/or other countries.{{</small>}}
