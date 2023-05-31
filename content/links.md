@@ -14,6 +14,6 @@ tags = []
 
 [yafra, your analog filmroll app](https://unsignedpixel.com/yafra)
 
-coming soon [yafra tagger](), the companion for yafra
+[yafra tagger](){{<super>}}coming soon{{</super>}}, the macOS companion for yafra
 
 
