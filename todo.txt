@@ -8,3 +8,4 @@
 
 
 
+theme: make header translucent like mineralapp homepage 
