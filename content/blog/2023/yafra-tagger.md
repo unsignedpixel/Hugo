@@ -13,7 +13,7 @@ I use Lightroom to manage all my photos. AFAIK, Adobe does not provide an API fo
 #### Update (14.02.2023)
 Prototyping some functionality with Image I/O was going well. That was, until I tried to tag .tiff instead of .jpeg files. Without going into detail, there are different options to update meta data in an image file and Apples documentation is lacking. Searching the traditional way (Google, SO) revealed a lot of code that wasn't much better than my own. Why not give chatGPT a try, I thought. The first results were not much better than what I already had, but after explaining the exact problem, it spit out promising code that will serve as a base for building upon.
 #### Update (13.03.2023)
-Basic functionality is in place, the UI needs some more polish, stay tuned...
+Basic functionality is in place, the UI needs some more polish, [stay tuned...](/links)
 #### Update (11.05.2023)
 Finally resolved an issue when trying to write the exposure compensation to .jpeg files.
 
