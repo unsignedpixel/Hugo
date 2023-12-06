@@ -16,4 +16,6 @@ Prototyping some functionality with Image I/O was going well. That was, until I 
 Basic functionality is in place, the UI needs some more polish, [stay tuned...](/links)
 #### Update (11.05.2023)
 Finally resolved an issue when trying to write the exposure compensation to .jpeg files.
+#### Update (6.12.2023)
+I didn't have any spare time to work on Yafra-Tagger the last couple of months.
 
