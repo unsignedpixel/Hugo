@@ -1,3 +1,5 @@
+- fix WARN  The author key in site configuration is deprecated. Use params.author.name instead. -> https://discourse.gohugo.io/t/new-warning-the-author-key-in-site-configuration-is-deprecated-use-params-author-name-instead/47034/4 might be a theme issue
+
 - fix security issues reported by https://observatory.mozilla.org/analyze/unsignedpixel.com
 - blog/_index.md shouldn't be 'draft'
 - Theme: add fonts to theme (and put this info into theme readme)
