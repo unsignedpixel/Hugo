@@ -13,8 +13,8 @@ enableEmoji = true
 [permalinks]
   posts = "/blog/:year/:month/:title/"
 
-[author]
-  name = "chris"
+#[author]
+#  name = "chris"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -38,6 +38,7 @@ enableEmoji = true
 
   homeSubtitle = "coding for your and my photography needs"
 
+  author.name = "chris"
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
   # gitUrl = ""
