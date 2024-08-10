@@ -90,10 +90,9 @@ unsignedpixel
 
 Christian Scheer
 
-Andreas-Knack-Ring 14
+Bergstr. 23
 
-22307 Hamburg
-
+19258 Blücher
 Deutschland
 
 Phone:+49(40)46991893

@@ -15,9 +15,9 @@ weight = 95
 
 **Christian Scheer**
 
-**Andreas-Knack-Ring 14**
+**Bergstr 23**
 
-**22307 Hamburg**
+**19258 Blücher**
 
 **info at unsignedpixel.com**
 <br><br>
@@ -42,9 +42,9 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 Christian Scheer
 
-Andreas-Knack-Ring 14
+Bergstr. 23
 
-22307 Hamburg
+19258 Blücher
 info@unsignedpixel.com
 
 Impressum: https://unsignedpixel.com/imprint/
